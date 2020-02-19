@@ -1,0 +1,7 @@
+a.txt
+b.txt
+file.php
+file2.php
+file3.php
+file4.php
+outfile.txt
